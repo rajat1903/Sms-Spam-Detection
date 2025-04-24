@@ -1,3 +1,0 @@
-"""
-SMS Spam Detection package
-""" 
